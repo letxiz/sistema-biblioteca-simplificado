@@ -12,7 +12,7 @@ Projeto desenvolvido em Dart para simular um sistema básico de gerenciamento de
 
 ## 🧱 Arquivos do projeto
 
-* `principal.dart` — arquivo principal de execução
+* `main.dart` — arquivo principal de execução
 * `biblioteca.dart` — regras da biblioteca
 * `livro.dart` — classe Livro
 * `pessoa.dart` — classe Pessoa
